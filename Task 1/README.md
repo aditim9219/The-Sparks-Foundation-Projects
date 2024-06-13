@@ -1,2 +1,2 @@
 # To Explore Supervised Machine Learning
-In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
+In this task, we aim to predict students' marks based on the number of hours they studied using simple linear regression, involving two variables. The goal is to build a model that estimates the percentage of marks using study hours as the predictor variable. This task serves to understand the relationship between study time and academic performance, providing foundational knowledge in regression analysis for predicting student scores.
