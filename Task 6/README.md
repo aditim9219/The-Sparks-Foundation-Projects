@@ -1,1 +1,3 @@
+**Data Science & Business Analytics Internship Task 6: Prediction Using Decision Tree Algorithm**
 
+In this task, we will develop a Decision Tree classifier using the "Iris" dataset, which contains 150 samples of iris flowers categorized into three species: Iris-setosa, Iris-versicolor, and Iris-virginica. Each sample has four features: sepal length, sepal width, petal length, and petal width. We will begin by loading and preprocessing the dataset, followed by creating and training the Decision Tree classifier. Once trained, we will visualize the decision tree to understand its decision-making process.
